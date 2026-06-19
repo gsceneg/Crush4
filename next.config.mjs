@@ -4,6 +4,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-}
-op
-export default nextConfig
+};
+
+export default nextConfig;
